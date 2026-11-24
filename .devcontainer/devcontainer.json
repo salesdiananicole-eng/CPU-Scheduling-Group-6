@@ -1,0 +1,6 @@
+git init
+git add main.py README.md
+git commit -m "Add CPU Scheduling Simulator GUI"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/cpu-scheduling-simulator.git
+git push -u origin main
